@@ -1,0 +1,84 @@
+.s_title_back {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-weight: bold;
+	background-color: #99CCFF;
+	font-size: 0.8em;
+	padding: 5px;
+}
+.red {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	color: #FF0000;
+	padding: 5px;
+}
+.blue {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	color: #3366CC;
+}
+.address {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+}
+#outline {
+	width: 575px;
+	border: 1px solid #999999;
+	background-color: #FFFFFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.answer {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	font-weight: bold;
+	color: #006633;
+	padding: 5px;
+}
+.date_back {
+	background-color: #99ff99;
+}
+
+.question {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	font-weight: bold;
+	color: #FF0000;
+	padding: 5px;
+}
+
+.main_text {
+	font-size: 0.8em;
+	line-height: 1.2em;
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	padding: 5px;
+}
+.s_title_red {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	font-weight: bold;
+	color: #CC3300;
+	background-color: #FFE1FF;
+	border-left-width: 4px;
+	border-left-style: solid;
+	border-left-color: #FF0000;
+	padding: 6px;
+}
+.brown {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 0.8em;
+	line-height: 1.2em;
+	color: #996600;
+}
+.style54 {
+	line-height: 23px;
+}
+.style54 {
+	line-height: 25px;
+}
